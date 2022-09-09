@@ -176,3 +176,6 @@ git clone --depth=1 https://github.com/sirpdboy/luci-app-netdata
 #添加smartdns
 git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
+
+#添加UA2F
+git clone https://github.com/Zxilly/UA2F.git package/UA2F
